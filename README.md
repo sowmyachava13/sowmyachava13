@@ -29,6 +29,8 @@ Featured project
 Retail Profit Leak Analyzer
 An ETL pipeline in Python and PostgreSQL that identifies retail profit leaks and visualises the discount threshold where promotions stop being profitable.
 
+AgriAnalytics Predictive Data Platform, contributor at github.com/AgriQuant26/AgriAnalytics. Designed the Star Schema data model and Fact and Dimension tables, and built the Azure Data Factory ingestion pipeline within a team project analysing Indian crop yield data.
+
 Background
 
 Bachelor of Technology in Information Technology, Jawaharlal Nehru Technological University. MicroStrategy Corporation certified in Enterprise BI Analysis and BI Project Architecture.
