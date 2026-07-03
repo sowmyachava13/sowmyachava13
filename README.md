@@ -26,11 +26,11 @@ Databases: Vertica, Teradata, PostgreSQL, Azure SQL
 
 Featured project
 
-Retail Profit Leak Analyzer
+[Retail Profit Leak Analyzer](https://github.com/sowmyachava13/retail_profit_leak_analyzer)
 An ETL pipeline in Python and PostgreSQL that identifies retail profit leaks and visualises the discount threshold where promotions stop being profitable.
 
-AgriAnalytics Predictive Data Platform, contributor at github.com/AgriQuant26/AgriAnalytics. Designed the Star Schema data model and Fact and Dimension tables, and built the Azure Data Factory ingestion pipeline within a team project analysing Indian crop yield data.
-
+[AgriAnalytics Predictive Data Platform](https://github.com/AgriQuant26/AgriAnalytics)  (Contributor)
+A team project analysing Indian crop yield data on Azure. My contribution covered designing the Star Schema data model, including the Fact and Dimension tables, and building the Azure Data Factory ingestion pipeline that lands raw data into ADLS Gen2 under a Medallion Architecture.
 Background
 
 Bachelor of Technology in Information Technology, Jawaharlal Nehru Technological University. MicroStrategy Corporation certified in Enterprise BI Analysis and BI Project Architecture.
