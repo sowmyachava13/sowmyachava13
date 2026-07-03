@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi, I am Sowmya Chava
 
-<!--
-**sowmyachava13/sowmyachava13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Data Analyst with more than three years of experience building enterprise BI and ETL solutions in the insurance and financial services sector. Based in Hamburg, Germany, currently expanding into cloud data engineering on Azure.
 
-Here are some ideas to get you started:
+What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and maintain enterprise dashboards and KPI frameworks in Power BI and MicroStrategy, build ETL and ELT pipelines in Python and SQL, and work across Azure Data Factory, ADLS Gen2, and Azure Synapse Analytics to move raw multi source data into structured, decision ready reporting.
+
+At MassMutual, I delivered 50+ production dashboards for finance, sales, and operations stakeholders, and reduced manual reporting effort by 35 percent through automated data pipelines.
+
+Currently learning
+
+
+PySpark and Databricks
+dbt Fundamentals
+Microsoft Fabric
+German, targeting B1 proficiency
+
+
+Tech stack
+
+BI and Reporting: Power BI (DAX, Power Query), MicroStrategy, Tableau, KPI Development
+Data Engineering: Python (Pandas, NumPy), SQL, ETL/ELT Pipelines, Star Schema Modelling
+Cloud: Azure Data Factory, ADLS Gen2, Azure Synapse Analytics, AWS S3
+Databases: Vertica, Teradata, PostgreSQL, Azure SQL
+
+Featured project
+
+Retail Profit Leak Analyzer
+An ETL pipeline in Python and PostgreSQL that identifies retail profit leaks and visualises the discount threshold where promotions stop being profitable.
+
+Background
+
+Bachelor of Technology in Information Technology, Jawaharlal Nehru Technological University. MicroStrategy Corporation certified in Enterprise BI Analysis and BI Project Architecture.
+
+Connect with me
+
+LinkedIn: linkedin.com/in/chava-sowmya-7782b5199
+Email: chavasowmya13@gmail.com
